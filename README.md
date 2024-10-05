@@ -6,5 +6,5 @@ Time series forecasting is an important area of AI. It is important because ther
 Two datasets were used in this project:
 
 **Classifiation:** 'Tiselac' dataset. It is Time Series Land Cover Classification problem with Train Size '81714', Test size '17973', Length '23', No of Dimension '10' and 9 classes. Using 'Aeon' library it can be directly loaded the splitted train and test data. 
-**Regression :** 'Covid3Month' dataset. The dataset contains 201 timeseries, that contains daily covid confirmed cases for each country for 3 months to predict the death rate after those three months. ![image](https://github.com/user-attachments/assets/18af5312-bb12-4aee-b12a-e1fda76caacf)
+**Regression :** 'Covid3Month' dataset. The dataset contains 201 timeseries, that contains daily covid confirmed cases for each country for 3 months to predict the death rate after those three months.
 
